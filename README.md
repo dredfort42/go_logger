@@ -4,12 +4,12 @@ A simple, colorized logging utility for Go applications that provides pre-config
 
 ## Features
 
--   🎨 **Colorized Output**: Different colors for different log levels (Error: Red, Info: Green, Warning: Yellow, Debug: Blue)
--   📝 **Multiple Log Levels**: Error, Info, Warning, and Debug loggers
--   🎯 **Smart Output**: Errors go to stderr, other logs go to stdout
--   📍 **File Information**: Error logs include file and line information
--   ⚡ **High Performance**: Lightweight wrapper around Go's standard `log` package
--   🔒 **Thread-Safe**: Safe for concurrent use
+- **Colorized Output**: Different colors for different log levels (Error: Red, Info: Green, Warning: Yellow, Debug: Blue)
+- **Multiple Log Levels**: Error, Info, Warning, and Debug loggers
+- **Smart Output**: Errors go to stderr, other logs go to stdout
+- **File Information**: Error logs include file and line information
+- **High Performance**: Lightweight wrapper around Go's standard `log` package
+- **Thread-Safe**: Safe for concurrent use
 
 ## Installation
 
